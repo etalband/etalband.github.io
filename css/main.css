@@ -670,11 +670,11 @@ Our Team Style
 
 #team h2 {
   text-transform: uppercase;
-  color: #fff;
+  color: #0d0d0d;
 }
 
 #team p {
-  color: #fff;
+  color: #0d0d0d;
 }
 
 #team .team {
@@ -686,15 +686,17 @@ Our Team Style
   margin-top: 20px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #fff;
+  color: #0d0d0d;
 }
 
 #team .team p {
-  font-size: 19px
+  font-size: 19px;
+  color: #0d0d0d;
 }
 
 #team p span {
   font-weight: 700;
+  color: #0d0d0d;
 }
 
 #team .team a {
@@ -710,7 +712,7 @@ Our Team Style
 #team .team a:hover,
 #team .team a:focus,
 #team .team a:active {
-  color: #a3a3a3;
+  color: #0d0d0d;
 }
 
 /* ==========================================================================
